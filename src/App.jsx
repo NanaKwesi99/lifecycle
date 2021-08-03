@@ -1,10 +1,11 @@
 import './App.css';
-import UsersClass from './Components/UsersClass';
+
+import UserFunction from './Components/UsersFunction';
 
 function App() {
   return (
     <div >
-    <UsersClass />
+    <UserFunction />
     </div>
   );
 }
